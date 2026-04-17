@@ -2,7 +2,6 @@
 
 Este repositorio contiene mi práctica de fundamentos de programación basada en el libro *Metodología de la Programación* de Osvaldo Cairo, implementando todos los ejercicios en el lenguaje **Swift**.
 
-El objetivo principal es desarrollar una base sólida en lógica de programación, estructuras algorítmicas y manejo de datos, trasladando los conceptos teóricos del libro a código real.
 
 ---
 
@@ -54,7 +53,6 @@ Cada ejercicio dentro del repositorio incluye:
 
 * 📌 **Enunciado del problema**
 * 📊 **Definición y explicación de variables**
-* 🔄 **Diagrama de flujo** (cuando aplica)
 * 💻 **Implementación en Swift**
 
 Esto permite no solo resolver los problemas, sino también documentar el proceso lógico detrás de cada solución.
@@ -63,14 +61,12 @@ Esto permite no solo resolver los problemas, sino también documentar el proceso
 
 ## 🎯 Objetivo
 
-* Fortalecer lógica de programación
-* Traducir algoritmos a código real en Swift
-* Construir una base sólida para desarrollo de software (especialmente iOS)
+El objetivo principal es desarrollar una base sólida en lógica de programación, estructuras algorítmicas y manejo de datos, trasladando los conceptos teóricos del libro a código real, además de gestionarlo mediante control de versiones.
 
 ---
 
 ## 🚀 Progreso
 
-Este repositorio se irá actualizando conforme avance en cada sección del libro, agregando nuevos ejercicios y mejorando las soluciones existentes.
+El repositorio se actualizará conforme se avance en cada sección del libro, agregando nuevos ejercicios y mejorando las soluciones existentes.
 
 ---
